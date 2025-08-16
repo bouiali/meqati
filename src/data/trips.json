@@ -1,0 +1,128 @@
+{"trips":[
+    {
+        "month":"septembre",
+        "from":"Düsseldorf",
+        "image":"images/madinah.jpg",
+        "package_type":"5",
+        "date":"2025/09/13",
+        "start_from_price":"1399€",
+        "makkah_hotel":{
+            "name":"sheraton",
+            "stars":"5",
+            "distance":"500m",
+            "meals":"breakfast",
+            "nights":"5",
+            "location":"https://maps.app.goo.gl/zo61VAwQDqReuzKb8",
+            "images_paths":[
+                "images/sheraton0.jpg",
+                "images/sheraton1.jpg",
+                "images/sheraton2.jpg",
+                "images/sheraton3.jpg",
+                "images/sheraton4.jpg",
+                "images/sheraton5.jpg"
+            ]
+        },
+        "madinah_hotel":{
+            "name":"frontel alharithia",
+            "stars":"5",
+            "distance":"170m",
+            "meals":"breakfast",
+            "nights":"5",
+            "location":"https://maps.app.goo.gl/qcBkdfDCsBec8d919",
+            "images_paths":[
+                "images/Frontel0.jpg",
+                "images/Frontel1.jpg",
+                "images/Frontel2.jpg",
+                "images/Frontel3.jpg",
+                "images/Frontel4.jpg",
+                "images/Frontel5.jpg",
+                "images/Frontel6.jpg"
+            ]
+        },
+        "ticket_details":{
+            "go_ticket":[
+                {
+                    "airline":"saudi airlines",
+                    "from":"Düsseldorf",
+                    "to":"jeddah",
+                    "depart":{
+                        "date":"2025/09/13",
+                        "time":"17:25"
+                    },
+                    "arrival":{
+                        "date":"2025/09/14",
+                        "time":"00:05"
+                    },
+                    "checked_baggage":"1 * 20kg",
+                    "cabin_baggage":"1 * 7kg"
+                }
+            ],
+            "return_ticket":[
+                {
+                    "airline":"saudi airlines",
+                    "from":"jeddah",
+                    "to":"Düsseldorf",
+                    "depart":{
+                        "date":"2025/09/23",
+                        "time":"01:15"
+                    },
+                    "arrival":{
+                        "date":"2025/09/23",
+                        "time":"06:25"
+                    },
+                    "checked_baggage":"1 * 20kg",
+                    "cabin_baggage":"1 * 7kg"
+                }
+            ]
+        },
+        "program":[
+            {
+                "city":"Madinah",
+                "image":"images/madinah.jpg",
+                "description":[
+                    "You will begin your stay in the city of Madinah to discover the Prophet's Mosque and the many historical treasures of this city, such as the first mosque of Islam 'Masjid Qouba' or the site of the Battle of Uhoud. Visits that retrace the history of our beautiful religion.",
+                    "Sie beginnen Ihren Aufenthalt in Medina, um die Moschee des Propheten und die vielen historischen Schätze dieser Stadt zu entdecken, wie die erste Moschee des Islam, die Qouba-Moschee, oder den Ort der Schlacht von Uhoud. Besichtigungen, die die Geschichte unserer schönen Religion nachzeichnen."
+                ],
+                "list":[
+                    [
+                        "Lessons on the Benefits of Madinah.",
+                        "Visit to the Quba Mosque.",
+                        "Visit to the Martyrs of the Battle of Uhud.",
+                        "Lessons on omra."
+                    ],
+                    [
+                        "Lektionen über die Vorzüge von Medina",
+                        "Besuch der Quba-Moschee",
+                        "Besuch der Märtyrer der Schlacht von Uhud",
+                        "Lektionen über Omra."
+                    ]
+                ]
+            },
+            {
+                "city":"Makkah",
+                "image":"images/makkah.jpg",
+                "description":[
+                    "Then your stay will continue in Makkah to perform omra and enjoy the prayers at the Sacred Mosque.",
+                    "Anschließend wird Ihr Aufenthalt in Mekka fortgesetzt, um Omra durchzuführen und die Gebete in der Heiligen Moschee zu genießen."
+                ],
+                "list":[
+                    [
+                        "Omra.",
+                        "Course on the Benefits of Makkah.",
+                        "Course on the Signs of Accepted omra."
+                    ],
+                    [
+                        "Omra.",
+                        "Kurs über die Vorteile von Mekka.",
+                        "Kurs über die Zeichen akzeptierter Omra."
+                    ]
+                ]
+            }
+        ],
+        "price":{
+            "double":"1699€",
+            "triple":"1499€",
+            "quade":"1399€"
+        }
+    }
+]}
