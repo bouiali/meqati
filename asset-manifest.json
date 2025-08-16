@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meqati/static/css/main.dc4d6ff2.css",
+    "main.js": "/meqati/static/js/main.eed44336.js",
+    "static/js/453.62db3730.chunk.js": "/meqati/static/js/453.62db3730.chunk.js",
+    "index.html": "/meqati/index.html",
+    "main.dc4d6ff2.css.map": "/meqati/static/css/main.dc4d6ff2.css.map",
+    "main.eed44336.js.map": "/meqati/static/js/main.eed44336.js.map",
+    "453.62db3730.chunk.js.map": "/meqati/static/js/453.62db3730.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.eed44336.js"
+  ]
+}
